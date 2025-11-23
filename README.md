@@ -1,2 +1,2 @@
 # FirstAidTool
-Develop a first-aid suggestion tool for minor injuries.
+A first-aid suggestion tool for minor injuries.
